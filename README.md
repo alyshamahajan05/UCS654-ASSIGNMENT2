@@ -108,14 +108,18 @@ A plot of the estimated probability density function obtained from GAN-generated
   The generated samples result in a smooth and realistic probability density function that reflects the underlying structure of the transformed data.
 
 ---
+## 7. Histogram
 
-## 7. Conclusion
+<img width="584" height="455" alt="download" src="https://github.com/user-attachments/assets/668ebc9c-3556-47f6-8e32-0aecfe52e3f6" />
+
+---
+## 8. Conclusion
 
 In this assignment, a roll-number-based nonlinear transformation was applied to NO₂ air quality data. A Generative Adversarial Network was used to learn the probability density function of the transformed variable using data only, without assuming any analytical form. The results demonstrate the effectiveness of GANs in modeling unknown probability distributions.
 
 ---
 
-## 8. Software and Tools Used
+## 9. Software and Tools Used
 
 - Google Colab  
 - Python  
@@ -124,5 +128,6 @@ In this assignment, a roll-number-based nonlinear transformation was applied to 
 - TensorFlow / Keras  
 - Matplotlib  
 - SciPy  
+
 
 ---
